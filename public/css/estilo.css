@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+.foto{
+    width: 160px;
+    height: 160px;
+    background-color: gray;
+    color: white;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    margin-right: 20px;
+}
+.dados{
+    width: 260px;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    flex-direction: column;
+    color: white;
+    text-shadow: 2px 2px 3px black;
+}
